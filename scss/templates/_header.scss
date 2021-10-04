@@ -1,6 +1,12 @@
 .logo {
-	margin-top: 10px;
-	display: inline-block;
+	img {
+		width: 100%;
+		max-width: 60px;
+		display: block;
+	}
+	.baseline {
+		font-size: 10px;
+	}
 }
 .single-page-header {
 	background-image: url('../images/about/about-header.jpg');
